@@ -1,3 +1,3 @@
 # Bajke
-[Braco i seka](Braco_i_seka)
+[Braco i seka](BracoSeka.md)
 [Bremenski gradski sviraci](Bremenski_gradski_sviraci)
